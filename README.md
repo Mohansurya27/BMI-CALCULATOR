@@ -14,7 +14,7 @@
 
 	<div class="container">
             <h2>ENTER YOUR AGE:</h2>
-	    <input type="text" id="age" value=""><br><br>
+	 <input type="text" id="age" value=""><br><br>
 
 	<h2>ENTER YOUR WEIGHT:</h2>
 	<input type="text" id="a" placeholder="IN KG" value=""><br><br>
