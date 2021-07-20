@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="BMI.css">
-
-  </head>
+    <link rel="stylesheet" type="text/css" href="BMI.css">
+</head>
   
   
 <body>
 	<h1>BMI CALCULATOR</h1>
 
 	<div class="container">
-            <h2>ENTER YOUR AGE:</h2>
+        <h2>ENTER YOUR AGE:</h2>
 	<input type="text" id="age" value=""><br><br>
 
 	<h2>ENTER YOUR WEIGHT:</h2>
