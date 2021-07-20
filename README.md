@@ -7,8 +7,8 @@
   
   
 <body>
-	<script>
-		function calBMI() {
+<script>
+	function calBMI() {
         	var x=document.getElementById("a").value;
        		var y=document.getElementById("b").value;
         	var bmi=(x/y**2)*10**4;
@@ -32,19 +32,7 @@
           		document.getElementById("S2").innerHTML = "YOU ARE OBESE";
         	}
       		}
-	</script>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+</script>
 	
 	<h1>BMI CALCULATOR</h1>
 
