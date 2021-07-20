@@ -1,0 +1,50 @@
+body{
+		background-color: teal;
+		text-align: center;
+		position: relative;
+		margin: 0;
+	  transition: relative;
+}
+input[type=text]{
+		border: 2px solid grey;
+		display: inline-block;
+		border-radius: 8px;
+
+}
+h1{
+	font-family: cursive;
+	font-size: 50px;
+	color: orange;
+}
+.container{
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+
+
+#a,#b,#age{
+	width: 80px;
+	height: 40px;
+	font-size: 80%;
+}
+
+
+
+#c{
+	font-family: Arial;
+    font-size: 20px;
+    color: white;
+    background: #DA0037;
+    border-radius: 10px;
+}
+h2{
+	color:black;
+	font-family: serif;
+}
+h3{
+	font-size: 30px;
+	color: white;
+	font-family: serif;
+}
